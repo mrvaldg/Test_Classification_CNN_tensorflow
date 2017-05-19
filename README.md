@@ -29,3 +29,10 @@ Epoch 300 loss: 1.16337 accuracy: 0.58
 Accuracy can be increased by using pre-trained word2vec.
 
 You can specify the path according to your path where the dataset is in your computer.
+
+
+REFERENCES:
+
+[1] Convolutional Neural Networks for Sentence Classification - https://arxiv.org/abs/1408.5882
+
+[2] Implementing a CNN for Text Classification in TensorFlow - http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/
