@@ -1,7 +1,6 @@
 # Test_Classification_CNN_tensorflow
 This is a project for classifying IMDB movie reviews by using Convolutional Neural Network, It is implemented in tensorflow. 
-The model is used in this project is similar to Yoon Kim's Convolutional Neural Networks for Sentence Classification, but it is not exactly
-the same with it.
+The model is used in this project is similar to Yoon Kim's Convolutional Neural Networks for Sentence Classification, but it is not exactly the same with it.
 Dataset can be found here; http://ai.stanford.edu/~amaas/data/sentiment/ .
 
 Results is here;
@@ -28,3 +27,5 @@ Epoch 300 loss: 1.16337 accuracy: 0.58
 
 
 Accuracy can be increased by using pre-trained word2vec.
+
+You can specify the path according to your path where the dataset is in.
