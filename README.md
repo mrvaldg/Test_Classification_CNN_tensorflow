@@ -30,9 +30,6 @@ Accuracy can be increased by using pre-trained word2vec.
 
 You can specify the path according to your path where the dataset is in your computer.
 
+Inspired from dennybritz/cnn-text-classification-tf
 
-REFERENCES:
 
-[1] Convolutional Neural Networks for Sentence Classification - https://arxiv.org/abs/1408.5882
-
-[2] Implementing a CNN for Text Classification in TensorFlow - http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/
